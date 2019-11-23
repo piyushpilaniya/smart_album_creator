@@ -12,9 +12,8 @@ The following package contains the following files and folders+
 	|- get_time.py : Python file that gives the timestamp information.
 	|- blur_detection.py : Function that returns the bluriness level of the image.
 	|- cv_close_eye_detect.py : Function that returns whether the eyes in the photo are closed or open.
-	|- CS507_2016csb1051_2016csb1049_report.pdf : Report file.
-	|- readme.txt
 
+Download and copy resnet50_coco_best_v2.0.1.h5 to the project directory for the object detection.
 
 How to run this package : Open terminal and type "python3 main.py input/"
 
